@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/hw02.github.io/static/css/main.06c8d590.css",
+    "main.js": "/hw02.github.io/static/js/main.a6673651.js",
+    "static/js/787.66cb4309.chunk.js": "/hw02.github.io/static/js/787.66cb4309.chunk.js",
+    "static/media/avatar.png": "/hw02.github.io/static/media/avatar.d947cb9d0d13765666b6.png",
+    "index.html": "/hw02.github.io/index.html",
+    "main.06c8d590.css.map": "/hw02.github.io/static/css/main.06c8d590.css.map",
+    "main.a6673651.js.map": "/hw02.github.io/static/js/main.a6673651.js.map",
+    "787.66cb4309.chunk.js.map": "/hw02.github.io/static/js/787.66cb4309.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06c8d590.css",
+    "static/js/main.a6673651.js"
+  ]
+}
