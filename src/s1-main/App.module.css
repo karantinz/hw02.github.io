@@ -1,0 +1,24 @@
+.App {
+  --header_height: 60px;
+}
+
+.hw {
+  border-top: 1px solid #d9d9d9;
+  border-bottom: 1px solid #d9d9d9;
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 131px 0px 216px 0px;
+}
+
+.hwTitle {
+  color: #000;
+  font-family: Montserrat;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  max-width: 1280px;
+  margin: 0 auto;
+  margin-top: 131px;
+  margin-bottom: 10px;
+}
